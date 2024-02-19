@@ -10,3 +10,10 @@ Using-Python-for-Scientometrics-data-Visualization
 李杰. http://blog.sciencenet.cn/u/jerrycueb.
 
 李显. https://blog.csdn.net/lys_828.
+
+科学知识图谱系列指南电子版 https://citespace.lanzv.com/b016zh5je
+安全科学学术地图系列资料 电子版 https://citespace.lanzv.com/b01891hfc
+CiteSpace系列指南电子版 https://citespace.lanzv.com/b0199iozc
+VOSviewer系列指南电子版 https://citespace.lanzv.com/b0199ippi
+BibExcel系列指南电子版  https://citespace.lanzv.com/b01a2n1ud
+科学计量与知识图谱案例论文 https://citespace.lanzv.com/b0199ibji
